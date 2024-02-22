@@ -1,3 +1,3 @@
 # TheDruminator GitHub
 
-Insert text
+EPFL chemistry student specialising in physical and computational chemistry
